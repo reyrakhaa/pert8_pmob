@@ -1,0 +1,49 @@
+{
+  "project_info": {
+    "project_number": "137789955828",
+    "firebase_url": "https://pmob234-279f8-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "pmob234-279f8",
+    "storage_bucket": "pmob234-279f8.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:137789955828:android:702826deed4407e92508a1",
+        "android_client_info": {
+          "package_name": "com.rakha.pert8_pmob"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBiUA0U9trDyBbPq8oVNtmHxBuJgxV0D1A"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:137789955828:android:6b17c20a5e4333022508a1",
+        "android_client_info": {
+          "package_name": "com.rey.myapplication"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBiUA0U9trDyBbPq8oVNtmHxBuJgxV0D1A"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
